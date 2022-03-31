@@ -1,0 +1,8 @@
+E:\Desktop\Document_collection\c#_set\Test_one\Test_one\bin\Debug\Test_one.exe.config
+E:\Desktop\Document_collection\c#_set\Test_one\Test_one\bin\Debug\Test_one.exe
+E:\Desktop\Document_collection\c#_set\Test_one\Test_one\bin\Debug\Test_one.pdb
+E:\Desktop\Document_collection\c#_set\Test_one\Test_one\obj\Debug\Test_one.csproj.AssemblyReference.cache
+E:\Desktop\Document_collection\c#_set\Test_one\Test_one\obj\Debug\Test_one.csproj.SuggestedBindingRedirects.cache
+E:\Desktop\Document_collection\c#_set\Test_one\Test_one\obj\Debug\Test_one.csproj.CoreCompileInputs.cache
+E:\Desktop\Document_collection\c#_set\Test_one\Test_one\obj\Debug\Test_one.exe
+E:\Desktop\Document_collection\c#_set\Test_one\Test_one\obj\Debug\Test_one.pdb
