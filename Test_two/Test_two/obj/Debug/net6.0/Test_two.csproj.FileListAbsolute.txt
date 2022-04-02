@@ -1,0 +1,15 @@
+E:\Desktop\Document_collection\c#_set\Test_two\Test_two\obj\Debug\net6.0\Test_two.csproj.AssemblyReference.cache
+E:\Desktop\Document_collection\c#_set\Test_two\Test_two\obj\Debug\net6.0\Test_two.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Document_collection\c#_set\Test_two\Test_two\obj\Debug\net6.0\Test_two.AssemblyInfoInputs.cache
+E:\Desktop\Document_collection\c#_set\Test_two\Test_two\obj\Debug\net6.0\Test_two.AssemblyInfo.cs
+E:\Desktop\Document_collection\c#_set\Test_two\Test_two\obj\Debug\net6.0\Test_two.csproj.CoreCompileInputs.cache
+E:\Desktop\Document_collection\c#_set\Test_two\Test_two\bin\Debug\net6.0\Test_two.exe
+E:\Desktop\Document_collection\c#_set\Test_two\Test_two\bin\Debug\net6.0\Test_two.deps.json
+E:\Desktop\Document_collection\c#_set\Test_two\Test_two\bin\Debug\net6.0\Test_two.runtimeconfig.json
+E:\Desktop\Document_collection\c#_set\Test_two\Test_two\bin\Debug\net6.0\Test_two.dll
+E:\Desktop\Document_collection\c#_set\Test_two\Test_two\bin\Debug\net6.0\Test_two.pdb
+E:\Desktop\Document_collection\c#_set\Test_two\Test_two\obj\Debug\net6.0\Test_two.dll
+E:\Desktop\Document_collection\c#_set\Test_two\Test_two\obj\Debug\net6.0\refint\Test_two.dll
+E:\Desktop\Document_collection\c#_set\Test_two\Test_two\obj\Debug\net6.0\Test_two.pdb
+E:\Desktop\Document_collection\c#_set\Test_two\Test_two\obj\Debug\net6.0\Test_two.genruntimeconfig.cache
+E:\Desktop\Document_collection\c#_set\Test_two\Test_two\obj\Debug\net6.0\ref\Test_two.dll
