@@ -72,13 +72,14 @@ namespace ConsoleApp1
                 Console.WriteLine(str);
             }
             */
-
+            /*
             Vector3 vector = new Vector3();
             vector.x = 4;
             vector.y = 5;
             vector.z = 7;
             Console.WriteLine(vector.Distance());
-
+            */
+            
         }
     }
 }

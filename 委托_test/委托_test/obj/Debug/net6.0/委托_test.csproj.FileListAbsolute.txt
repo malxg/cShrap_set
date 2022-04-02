@@ -1,0 +1,15 @@
+E:\Desktop\Document_collection\c#_set\委托_test\委托_test\bin\Debug\net6.0\委托_test.exe
+E:\Desktop\Document_collection\c#_set\委托_test\委托_test\bin\Debug\net6.0\委托_test.deps.json
+E:\Desktop\Document_collection\c#_set\委托_test\委托_test\bin\Debug\net6.0\委托_test.runtimeconfig.json
+E:\Desktop\Document_collection\c#_set\委托_test\委托_test\bin\Debug\net6.0\委托_test.dll
+E:\Desktop\Document_collection\c#_set\委托_test\委托_test\bin\Debug\net6.0\委托_test.pdb
+E:\Desktop\Document_collection\c#_set\委托_test\委托_test\obj\Debug\net6.0\委托_test.csproj.AssemblyReference.cache
+E:\Desktop\Document_collection\c#_set\委托_test\委托_test\obj\Debug\net6.0\委托_test.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Document_collection\c#_set\委托_test\委托_test\obj\Debug\net6.0\委托_test.AssemblyInfoInputs.cache
+E:\Desktop\Document_collection\c#_set\委托_test\委托_test\obj\Debug\net6.0\委托_test.AssemblyInfo.cs
+E:\Desktop\Document_collection\c#_set\委托_test\委托_test\obj\Debug\net6.0\委托_test.csproj.CoreCompileInputs.cache
+E:\Desktop\Document_collection\c#_set\委托_test\委托_test\obj\Debug\net6.0\委托_test.dll
+E:\Desktop\Document_collection\c#_set\委托_test\委托_test\obj\Debug\net6.0\refint\委托_test.dll
+E:\Desktop\Document_collection\c#_set\委托_test\委托_test\obj\Debug\net6.0\委托_test.pdb
+E:\Desktop\Document_collection\c#_set\委托_test\委托_test\obj\Debug\net6.0\委托_test.genruntimeconfig.cache
+E:\Desktop\Document_collection\c#_set\委托_test\委托_test\obj\Debug\net6.0\ref\委托_test.dll
